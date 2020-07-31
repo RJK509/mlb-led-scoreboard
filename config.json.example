@@ -1,7 +1,7 @@
 {
 	"preferred": {
-		"teams": ["Cubs"],
-		"divisions": ["NL Central"]
+		"teams": ["Nationals"],
+		"divisions": ["NL East"]
 	},
 	"news_ticker": {
 		"team_offday": true,
@@ -33,8 +33,8 @@
 		}
 	},
 	"weather": {
-		"apikey": "YOUR_API_KEY_HERE",
-		"location": "Chicago,il,us",
+		"apikey": "3fc6ce05c9683ad0abf900145edeb899",
+		"location": "Washington,dc,us",
 		"metric_units": false
 	},
 	"time_format": "12h",
